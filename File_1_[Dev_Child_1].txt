@@ -1,7 +1,7 @@
 Đây là File_1_[Dev_Child_1].txt
 
 [Line_1] Updated for Time One
-[Line_2]
+[Line_2] Updated for Time One [Rebase]
 [Line_3]
 [Line_4]
 [Line_5]
